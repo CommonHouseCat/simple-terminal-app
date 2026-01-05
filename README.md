@@ -1,4 +1,6 @@
-This is a course project that for CT206H, implementing Connector/J with MySQL. Below is the schema for the database:
+# This is a final project that for CTU sourse CT206H, implementing Connector/J with MySQL. 
+
+Below is the schema for the database:
 
 *Department:
 	dID				varchar(10)		primary key
